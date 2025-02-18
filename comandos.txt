@@ -1,0 +1,6 @@
+git stash (guarda infos locais)
+git pull (puxa)
+git stash pop (mescla local com nuvem)
+
+git config --global user.name || user.email
+git config --global --unset user.name || user.email
